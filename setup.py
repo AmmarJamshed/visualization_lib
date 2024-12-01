@@ -14,7 +14,8 @@ setup(
         'matplotlib',
         'seaborn',
         'scikit-learn',
-        'scipy'
+        'scipy',
+        'pytest'
     ],
     classifiers=[
         'Programming Language :: Python :: 3',
